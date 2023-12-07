@@ -1,0 +1,4 @@
+../Main_app/Src/tools.c:18:5:__io_putchar	16	static
+../Main_app/Src/tools.c:34:5:_write	24	static
+../Main_app/Src/tools.c:47:5:__io_getchar	16	static
+../Main_app/Src/tools.c:65:5:_read	32	static

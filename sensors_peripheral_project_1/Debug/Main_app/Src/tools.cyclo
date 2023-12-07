@@ -1,0 +1,4 @@
+../Main_app/Src/tools.c:18:5:__io_putchar	1
+../Main_app/Src/tools.c:34:5:_write	1
+../Main_app/Src/tools.c:47:5:__io_getchar	1
+../Main_app/Src/tools.c:65:5:_read	4

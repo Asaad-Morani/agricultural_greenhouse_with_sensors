@@ -1,0 +1,6 @@
+#ifndef INC_HUMIDITY_SENSOR_H_
+#define INC_HUMIDITY_SENSOR_H_
+
+
+
+#endif /* INC_HUMIDITY_SENSOR_H_ */
