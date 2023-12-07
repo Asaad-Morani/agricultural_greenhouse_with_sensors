@@ -7,4 +7,4 @@ objects in space with a distance sensor mounted on a rotating motor, PWM i2c uar
 And this information is transferred to the beaglebone card via uart to manage the system and 
 still continues in the development stages.
 
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/Asaad-Morani/agricultural_greenhouse_with_sensors/blob/main/project_image.jpeg)
