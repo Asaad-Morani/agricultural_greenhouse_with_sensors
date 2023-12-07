@@ -6,3 +6,5 @@ that checks the moisture level of the soil and the temperature and in addition t
 objects in space with a distance sensor mounted on a rotating motor, PWM i2c uart is used here and more. 
 And this information is transferred to the beaglebone card via uart to manage the system and 
 still continues in the development stages.
+
+![Uploading image.png…]()
